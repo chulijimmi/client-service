@@ -1,0 +1,9 @@
+.cache
+node_modules
+build/
+public/
+coverage/
+gatsby-config.js
+package-lock.json
+package.json
+README.md
